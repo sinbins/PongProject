@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/Pong Project/PongProject/Content/bp_mode.uasset",
+				"D:/Unreal Projects/Pong Project/PongProject/Content/Pong.umap",
+				"D:/Unreal Projects/Pong Project/PongProject/Content/bp_Player.uasset",
+				"D:/Unreal Projects/Pong Project/PongProject/Content/pm_bouncy.uasset",
+				"D:/Unreal Projects/Pong Project/PongProject/Content/bp_ball.uasset",
+				"D:/Unreal Projects/Pong Project/PongProject/Content/bp_playerPaddle.uasset",
+				"D:/Unreal Projects/Pong Project/PongProject/Content/bp_paddle.uasset",
+				"D:/Unreal Projects/Pong Project/PongProject/Content/bp_ballSpawner.uasset",
+				"D:/Unreal Projects/Pong Project/PongProject/Content/bp_EnemyPaddle.uasset",
+				"D:/Unreal Projects/Pong Project/PongProject/Content/bp_InvisibleBall.uasset"
+			]
+		}
+	]
+}
